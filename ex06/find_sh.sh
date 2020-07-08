@@ -1,2 +1,2 @@
  #! /bin/sh
- $>./file.sh | cat -e
+ $>./file.sh
